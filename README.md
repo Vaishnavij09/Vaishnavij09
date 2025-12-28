@@ -1,4 +1,4 @@
-# 💫 About Me:
+   #  I'm Vaishnavi Jagdhane:
 🔭 I’m currently working on<br>Frontend development projects using HTML, CSS, JavaScript, and building interactive, user-friendly web interfaces.<br><br>👯 I’m looking to collaborate on<br>Frontend web applications, UI/UX-focused projects, dashboards, and beginner-to-intermediate full-stack ideas.<br><br>🤝 I’m looking for help with<br>Advanced JavaScript concepts, frontend frameworks, performance optimization, and best practices in clean UI design.<br><br>🌱 I’m currently learning<br>Modern frontend development, responsive design, JavaScript frameworks, and improving problem-solving skills in software engineering.<br><br>💬 Ask me about<br>Frontend development basics, web project structure, UI logic, or turning ideas into functional web interfaces.<br><br>⚡ Fun fact<br>I enjoy turning complex logic into clean, simple, and interactive user experiences.
 
 
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Vaishnavij09&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vaishnavij09&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavij09&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vaishnavij09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
